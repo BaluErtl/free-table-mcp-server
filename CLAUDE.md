@@ -142,7 +142,6 @@ Felhasználó megkapja a választ
 
 ## Következő lépések
 
-- [ ] ES-kód audit a meglévő kódbázisban
 - [ ] DDEV + OpenSearch + Ollama lokális stack felállítása
 - [ ] `search_api_opensearch` modul tesztelése
 - [ ] Embedding modell kiválasztása és tesztelése magyar jogi szövegeken
